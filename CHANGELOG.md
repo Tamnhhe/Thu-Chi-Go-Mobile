@@ -1,5 +1,10 @@
 # Changelog — Thu Chi Go Mobile
 
+## v0.1.2 — 2026-08-20
+
+- APK sha256: `4872a3fe1b708bbb1a8abe9fc864332d6b014b73300a5b6e14b2cec4c48fa66a`
+
+
 ## v0.1.1 — 2026-08-01
 
 - APK sha256: `38498b4474ef37235d0ac74e4d90fb7419003136f3e600f826cb414f668e7f06`
